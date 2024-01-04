@@ -1,0 +1,5 @@
+{
+  "name": "studentsworldgithub/PHPNeuroForge",
+  "description": "PHPNeuroForge is a comprehensive PHP library designed to support PHP developers in creating and working with neural networks. This library offers a range of tools and functionalities for neural network creation, training, and utilization within PHP applications. Built with simplicity and flexibility in mind, PHPNeuroForge aims to empower developers to integrate powerful artificial neural networks seamlessly into their PHP-based projects.",
+  "version": "1.0.0",
+}
